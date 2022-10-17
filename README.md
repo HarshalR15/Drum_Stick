@@ -1,2 +1,2 @@
-# Drum_Stick
-Drum Stick using HTML ,CSS &amp; Java Script
+# Drum_Kit
+Drum Kit using HTML ,CSS &amp; Java Script
